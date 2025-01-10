@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+<title> Someguy's Trash Webpuzzle </title>
+</head>
+<html>
+<body>
+<h1> wsg chat </h1>
+<h2> made this might use it at some point idk <h2>
+<button onclick="document.location='web-puzzle/level1'"> Start </button>
+</body>
+</html>
